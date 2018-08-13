@@ -11,7 +11,7 @@ const renderPosts = data =>
 const Posts = ({ data }) => {
   return (
     <Layout>
-      <h2>Minute Rice Posts</h2>
+      <h2>Riviana White Label Posts</h2>
       <p>Some of these are shared, some are unique to this brand</p>
       <div>{renderPosts(data)}</div>
     </Layout>

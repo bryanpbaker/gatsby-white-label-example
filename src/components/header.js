@@ -4,7 +4,7 @@ import { Link } from 'gatsby'
 const Header = ({ siteTitle }) => (
   <div
     style={{
-      background: '#e60700',
+      background: '#999',
       marginBottom: '1.45rem',
     }}
   >
@@ -24,8 +24,8 @@ const Header = ({ siteTitle }) => (
           }}
         >
           <img
-            src="https://cdn.minuterice.com/resources/minuterice2010/images/logo_minute_v2.png"
-            alt=""
+            src="http://via.placeholder.com/350x150"
+            alt="Placeholder Logo"
           />
         </Link>
       </h1>

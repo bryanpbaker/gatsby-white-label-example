@@ -4,7 +4,7 @@ require('dotenv').config({
 
 module.exports = {
   siteMetadata: {
-    title: 'Minute Rice Example',
+    title: 'Riviana White Label Example',
   },
   plugins: [
     'gatsby-plugin-react-helmet',

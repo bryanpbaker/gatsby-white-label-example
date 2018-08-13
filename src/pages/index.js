@@ -10,7 +10,7 @@ const renderRecipes = data =>
 
 const IndexPage = ({ data }) => (
   <Layout>
-    <h1>Minute Rice Recipes</h1>
+    <h1>Riviana White Label Recipes</h1>
     <p>This is pulling in custom recipes from WP</p>
     <Link to="/posts/">Go to posts (including shared content)</Link>
     <hr style={{ marginTop: '40px', marginBottom: '40px' }} />
